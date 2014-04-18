@@ -1,0 +1,2 @@
+defined_in_both_global_and_region: iad3
+defined_only_in_region: iad3

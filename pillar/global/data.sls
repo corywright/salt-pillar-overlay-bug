@@ -1,0 +1,2 @@
+defined_only_in_global: global
+defined_in_both_global_and_region: global

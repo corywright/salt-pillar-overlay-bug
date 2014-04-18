@@ -1,0 +1,2 @@
+defined_in_both_global_and_region: syd2
+defined_only_in_region: syd2
